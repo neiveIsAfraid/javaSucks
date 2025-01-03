@@ -1,0 +1,2 @@
+# javaSucks
+You know, JAVA
