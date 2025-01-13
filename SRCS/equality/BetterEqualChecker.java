@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class BetterEqualChecker {
     public static void main(String[] args) {
-        System.out.print("Welcome to our progam\nContinue: ");
+        System.out.print("Welcome to our program\nContinue: ");
         Scanner scanner = new Scanner(System.in);
         String userInput = scanner.nextLine();
 
