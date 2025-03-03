@@ -3,6 +3,8 @@ package Modul1;
 public class hitung {
     public static void main(String[] args) {
         LuasIsiTabung tabung = new LuasIsiTabung(10, 5);
+        LuasPersegiPanjang persegiPanjang = new LuasPersegiPanjang(10,10);
+        LuasTrapesium trapesium = new LuasTrapesium(5,5,10);
     }
 }
 
